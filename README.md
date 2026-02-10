@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Arisha328
+- 👋 Hi, I’m @Arisha328.
 - 👀 I’m interested in ..soft ware Engenering.
-- 🌱 I’m currently learning ..coding.
+- 🌱 I’m currently learning html, css,js ..coding.
 - 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
